@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628863320875",
+    "firebase_url": "https://chatgame-b62b3.firebaseio.com",
+    "project_id": "chatgame-b62b3",
+    "storage_bucket": "chatgame-b62b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628863320875:android:33b238a757d079b720fb6e",
+        "android_client_info": {
+          "package_name": "com.ahcompany.delivery.requester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628863320875-gmob1b1eobglfcs2o6cgjomde9ru47cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahcompany.delivery.requester",
+            "certificate_hash": "24a5ea838e1a4708e0512f2df349c7cbfdf11389"
+          }
+        },
+        {
+          "client_id": "628863320875-4r976ejpt43ekl8ihc5u8dbt69ft32fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_jHHr9GHWh_hwdj4liZ10MCLGS9XA7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628863320875-4r976ejpt43ekl8ihc5u8dbt69ft32fq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628863320875-u90onp78ck3613o1irfak7cqe519jhl1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nolen.MsgGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
